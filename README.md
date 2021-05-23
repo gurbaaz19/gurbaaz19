@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/gurbaaz19/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 
 ## ![My github stats](https://github-readme-stats.vercel.app/api?username=gurbaaz19)
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurbaaz19)]
+
