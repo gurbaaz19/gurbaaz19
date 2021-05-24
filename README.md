@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 ### 🌐 Connect with me : 
  <a href="mailto:gurbaaz19@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/gurbaaz19/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-
-## ![My github stats](https://github-readme-stats.vercel.app/api?username=gurbaaz19)
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurbaaz19)](https://github.com/gurbaaz19/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=gurbaaz19)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurbaaz19)](https://github.com/gurbaaz19/github-readme-stats)
