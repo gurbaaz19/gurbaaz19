@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Hey! I'm Gurbaaz Singh Gill 🙌
-### I am a 1st year Computer Science Engineering student hailing from Ludhiana, Punjab. Currently I am exploring the world of programming and development, trying to learn new things from my mentors and seniors. To sum it up, I am beginner full of enthusiasm and a long way to go!!!
+### I am a 2nd year Computer Science Engineering student hailing from Ludhiana, Punjab. Currently I am exploring the world of programming and development, trying to learn new things from my mentors and seniors. To sum it up, I am beginner full of enthusiasm and a long way to go!!!
 - 👨‍🎓 **I am a 1st-year student of Computer Science Engineering pursuing my degree from BITS Pilani, KK Birla Goa Campus.**.
 - 💡 I am currently focusing on **Android Application Development** using **kotlin** and working on small projects to improve my skills.
 ### To know more about me: <a href="https://gurbaaz19.github.io/MyPortfolio/portfolio" target="_blank">My Portfolio</a>
