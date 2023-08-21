@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 ## Hey! I'm Gurbaaz 🙌
-### I am a 3rd year Computer Science Engineering student hailing from Ludhiana, Punjab. Currently I am exploring the world of programming and development, trying to learn new things from my mentors and seniors.
-- 👨‍🎓 I am a 3rd-year student of **Computer Science Engineering** pursuing my degree from **BITS Pilani, KK Birla Goa Campus**.
+### I am a final year Computer Science Engineering student from Ludhiana, Punjab. Currently I am exploring the world of programming and development, trying to learn new things from my mentors and seniors.
+- 👨‍🎓 I am a final year student of **Computer Science Engineering** pursuing my degree from **BITS Pilani, KK Birla Goa Campus**.
 - 💡 I have worked on **Android Application Development** using **kotlin** and have made many small projects to improve my skills.
 - ⚡ I am currently exploring the field of **Machine Learning** and creating small projects based on it.
 ### To know more about me: <a href="https://gurbaaz19.github.io/MyPortfolio/portfolio" target="_blank">My Portfolio</a>
